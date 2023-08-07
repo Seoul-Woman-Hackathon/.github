@@ -1,4 +1,3 @@
-## 2023 서울 우먼 테크 해커톤 - 키즈 가디언  
 
 ![image](https://github.com/JjungminLee/JjungminLee/assets/85864699/902623cc-6c58-4c4e-a5c4-eb4e444c375a)
 
